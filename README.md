@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanishk Namdev</h1>
-<h2 align="center">A second-year BTech Computer Science student with a strong foundation in Data Structures and Algorithms and passionate about coding eager to delve deeper into software development. I am a quick learner and a dedicated problem-solver</h2>
+<h2 align="center" font-size="15" >A second-year BTech Computer Science student passionate about coding eager to delve deeper into software development. I am a quick learner and a dedicated problem-solver</h2>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/47eccccb-033e-45f1-871a-5b1c9eada846"/>
 
