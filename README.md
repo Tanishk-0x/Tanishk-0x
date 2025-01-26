@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishk Namdev</h1>
 <h2 align="center" font-size="15" >A second-year BTech Computer Science student passionate about coding eager to delve deeper into software development. I am a quick learner and a dedicated problem-solver</h2>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/47eccccb-033e-45f1-871a-5b1c9eada846"/>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F817403401142635505%2F&psig=AOvVaw05bhVqsnU10LLceSB1xSkm&ust=1737956966186000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC41J_YkosDFQAAAAAdAAAAABAO"/>
 
 
 - About Me:👽 **Tanishk Namdev, BTech CS, proficient in DSA, building a strong development foundation.**
