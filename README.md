@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/47eccccb-033e-45f1-871a-5b1c9eada846"/>
 
 - About Me:👽 **Tanishk Namdev, BTech CS, proficient in DSA, building a strong development foundation.**
-- - 📫 How to reach me **tanishknamdev981@gmail.com**
+- 📫 How to reach me **tanishknamdev981@gmail.com**
 
 - 👾StructuraView [https://structuraview.netlify.app/](https://structuraview.netlify.app/)
 - 👾CodeEcho [https://codeecho.netlify.app/](https://codeecho.netlify.app/)
